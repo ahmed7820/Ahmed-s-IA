@@ -1,0 +1,40 @@
+.cursive{
+	font-family: "Zorus Serif";
+}
+
+.red{
+	color: red;
+}
+
+h3{
+	font-family: cursive;
+	color: green;
+}
+
+h1{
+	font-size: 48px;
+	
+}
+
+nav{
+	text-align: center;
+	font-size: 20px;
+}
+
+.image{
+	background-image: url("images/banner.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 175px;
+	padding-top: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+	
+body{
+	
+}
+
+.header{
+	margin 10px 100px;
+}
